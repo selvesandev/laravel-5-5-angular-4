@@ -10,5 +10,6 @@ First we need to install angular cli globally into our machine.
   
 Now Install Angular js Frontend Frameword  
 `ng new ng4tutorial`
-  
-  
+ 
+Run the angular server  
+`ng serve --open` 
